@@ -1,4 +1,4 @@
-# Customer-Segmentation-with-RFM-Analysis
+# Customer Segmentation with RFM Analysis
 
 ![image](https://github.com/AylinOguz/Customer-Segmentation-with-RFM-Analysis/blob/main/rfm.png?raw=true)
 
